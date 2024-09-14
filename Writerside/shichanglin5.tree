@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="shichanglin5"
+                 name="shichanglin5"
+                 start-page="shichanglin5.md">
+
+    <toc-element topic="shichanglin5.md"/>
+    <toc-element topic="时序存储.md">
+        <toc-element topic="promql.md"/>
+        <toc-element topic="VictoriaMetrics.md">
+            <toc-element topic="vmauth.md">
+                <toc-element topic="用法tips.md"/>
+            </toc-element>
+            <toc-element topic="vmagent.md">
+                <toc-element topic="核心设计.md"/>
+                <toc-element topic="核心流程.md"/>
+                <toc-element topic="关键指标.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="K8S相关.md">
+        <toc-element topic="问题记录.md">
+            <toc-element topic="NUMA 调度问题.md"/>
+            <toc-element topic="StatefulSet Reconcile.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
