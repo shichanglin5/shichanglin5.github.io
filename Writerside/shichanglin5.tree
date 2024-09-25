@@ -10,6 +10,12 @@
     <toc-element topic="时序存储.md">
         <toc-element topic="promql.md"/>
         <toc-element topic="VictoriaMetrics.md">
+            <toc-element topic="vmselect.md">
+                <toc-element topic="数据导出.md"/>
+            </toc-element>
+            <toc-element topic="vmstorage.md">
+                <toc-element topic="查询流程.md"/>
+            </toc-element>
             <toc-element topic="vmauth.md">
                 <toc-element topic="用法tips.md"/>
             </toc-element>
